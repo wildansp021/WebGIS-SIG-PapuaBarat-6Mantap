@@ -1,0 +1,116 @@
+[
+ {
+  "run": "2026-08-20",
+  "tanggal": "2026-08-20",
+  "jumlah_jalur": 20,
+  "berkas": "trajektori_2026-08-20.geojson"
+ },
+ {
+  "run": "2026-08-23",
+  "tanggal": "2026-08-23",
+  "jumlah_jalur": 20,
+  "berkas": "trajektori_2026-08-23.geojson"
+ },
+ {
+  "run": "2026-08-26",
+  "tanggal": "2026-08-26",
+  "jumlah_jalur": 20,
+  "berkas": "trajektori_2026-08-26.geojson"
+ },
+ {
+  "run": "2026-09-01",
+  "tanggal": "2026-09-01",
+  "jumlah_jalur": 20,
+  "berkas": "trajektori_2026-09-01.geojson"
+ },
+ {
+  "run": "2026-09-04",
+  "tanggal": "2026-09-04",
+  "jumlah_jalur": 20,
+  "berkas": "trajektori_2026-09-04.geojson"
+ },
+ {
+  "run": "2026-09-07",
+  "tanggal": "2026-09-07",
+  "jumlah_jalur": 20,
+  "berkas": "trajektori_2026-09-07.geojson"
+ },
+ {
+  "run": "2026-09-10",
+  "tanggal": "2026-09-10",
+  "jumlah_jalur": 20,
+  "berkas": "trajektori_2026-09-10.geojson"
+ },
+ {
+  "run": "2026-09-25",
+  "tanggal": "2026-09-25",
+  "jumlah_jalur": 20,
+  "berkas": "trajektori_2026-09-25.geojson"
+ },
+ {
+  "run": "2026-09-28",
+  "tanggal": "2026-09-28",
+  "jumlah_jalur": 20,
+  "berkas": "trajektori_2026-09-28.geojson"
+ },
+ {
+  "run": "2026-10-01",
+  "tanggal": "2026-10-01",
+  "jumlah_jalur": 20,
+  "berkas": "trajektori_2026-10-01.geojson"
+ },
+ {
+  "run": "2026-10-04",
+  "tanggal": "2026-10-04",
+  "jumlah_jalur": 20,
+  "berkas": "trajektori_2026-10-04.geojson"
+ },
+ {
+  "run": "2026-10-07",
+  "tanggal": "2026-10-07",
+  "jumlah_jalur": 20,
+  "berkas": "trajektori_2026-10-07.geojson"
+ },
+ {
+  "run": "2026-10-10",
+  "tanggal": "2026-10-10",
+  "jumlah_jalur": 20,
+  "berkas": "trajektori_2026-10-10.geojson"
+ },
+ {
+  "run": "2026-10-13",
+  "tanggal": "2026-10-13",
+  "jumlah_jalur": 20,
+  "berkas": "trajektori_2026-10-13.geojson"
+ },
+ {
+  "run": "2026-10-16",
+  "tanggal": "2026-10-16",
+  "jumlah_jalur": 20,
+  "berkas": "trajektori_2026-10-16.geojson"
+ },
+ {
+  "run": "2026-10-19",
+  "tanggal": "2026-10-19",
+  "jumlah_jalur": 20,
+  "berkas": "trajektori_2026-10-19.geojson"
+ },
+ {
+  "run": "2026-10-22",
+  "tanggal": "2026-10-22",
+  "jumlah_jalur": 20,
+  "berkas": "trajektori_2026-10-22.geojson"
+ },
+ {
+  "run": "2026-10-25",
+  "tanggal": "2026-10-25",
+  "jumlah_jalur": 20,
+  "berkas": "trajektori_2026-10-25.geojson"
+ },
+ {
+  "run": "2026-10-28",
+  "tanggal": "2026-10-28",
+  "jumlah_jalur": 20,
+  "berkas": "trajektori_2026-10-28.geojson"
+ }
+]
