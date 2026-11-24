@@ -1,0 +1,478 @@
+{
+  "satuan": "ug/m3",
+  "bounds": [
+    [
+      -9.025,
+      127.975
+    ],
+    [
+      3.025,
+      144.025
+    ]
+  ],
+  "legenda": [
+    {
+      "min": 0.01,
+      "warna": "#ffd600",
+      "label": "0,01 - 0,1"
+    },
+    {
+      "min": 0.1,
+      "warna": "#ffaa00",
+      "label": "0,1 - 0,5"
+    },
+    {
+      "min": 0.5,
+      "warna": "#ff7800",
+      "label": "0,5 - 1"
+    },
+    {
+      "min": 1.0,
+      "warna": "#f04614",
+      "label": "1 - 5"
+    },
+    {
+      "min": 5.0,
+      "warna": "#cd1923",
+      "label": "5 - 15,5"
+    },
+    {
+      "min": 15.5,
+      "warna": "#8c143c",
+      "label": "15,5 - 55,4"
+    },
+    {
+      "min": 55.4,
+      "warna": "#460a32",
+      "label": "> 55,4"
+    }
+  ],
+  "harian": [
+    {
+      "tanggal": "2026-08-21",
+      "run": "2026-08-20",
+      "file": "png/harian/PM25_2026-08-21_run2026-08-20.png",
+      "maks_ugm3": 0.7
+    },
+    {
+      "tanggal": "2026-08-22",
+      "run": "2026-08-20",
+      "file": "png/harian/PM25_2026-08-22_run2026-08-20.png",
+      "maks_ugm3": 0.17
+    },
+    {
+      "tanggal": "2026-08-23",
+      "run": "2026-08-20",
+      "file": "png/harian/PM25_2026-08-23_run2026-08-20.png",
+      "maks_ugm3": 0.12
+    },
+    {
+      "tanggal": "2026-08-24",
+      "run": "2026-08-23",
+      "file": "png/harian/PM25_2026-08-24_run2026-08-23.png",
+      "maks_ugm3": 19.48
+    },
+    {
+      "tanggal": "2026-08-25",
+      "run": "2026-08-23",
+      "file": "png/harian/PM25_2026-08-25_run2026-08-23.png",
+      "maks_ugm3": 4.31
+    },
+    {
+      "tanggal": "2026-08-26",
+      "run": "2026-08-23",
+      "file": "png/harian/PM25_2026-08-26_run2026-08-23.png",
+      "maks_ugm3": 0.78
+    },
+    {
+      "tanggal": "2026-08-27",
+      "run": "2026-08-26",
+      "file": "png/harian/PM25_2026-08-27_run2026-08-26.png",
+      "maks_ugm3": 1.7
+    },
+    {
+      "tanggal": "2026-08-28",
+      "run": "2026-08-26",
+      "file": "png/harian/PM25_2026-08-28_run2026-08-26.png",
+      "maks_ugm3": 0.55
+    },
+    {
+      "tanggal": "2026-08-29",
+      "run": "2026-08-26",
+      "file": "png/harian/PM25_2026-08-29_run2026-08-26.png",
+      "maks_ugm3": 0.0
+    },
+    {
+      "tanggal": "2026-09-02",
+      "run": "2026-09-01",
+      "file": "png/harian/PM25_2026-09-02_run2026-09-01.png",
+      "maks_ugm3": 0.93
+    },
+    {
+      "tanggal": "2026-09-03",
+      "run": "2026-09-01",
+      "file": "png/harian/PM25_2026-09-03_run2026-09-01.png",
+      "maks_ugm3": 0.09
+    },
+    {
+      "tanggal": "2026-09-04",
+      "run": "2026-09-01",
+      "file": "png/harian/PM25_2026-09-04_run2026-09-01.png",
+      "maks_ugm3": 0.05
+    },
+    {
+      "tanggal": "2026-09-05",
+      "run": "2026-09-04",
+      "file": "png/harian/PM25_2026-09-05_run2026-09-04.png",
+      "maks_ugm3": 0.68
+    },
+    {
+      "tanggal": "2026-09-06",
+      "run": "2026-09-04",
+      "file": "png/harian/PM25_2026-09-06_run2026-09-04.png",
+      "maks_ugm3": 0.07
+    },
+    {
+      "tanggal": "2026-09-07",
+      "run": "2026-09-04",
+      "file": "png/harian/PM25_2026-09-07_run2026-09-04.png",
+      "maks_ugm3": 0.02
+    },
+    {
+      "tanggal": "2026-09-08",
+      "run": "2026-09-07",
+      "file": "png/harian/PM25_2026-09-08_run2026-09-07.png",
+      "maks_ugm3": 0.11
+    },
+    {
+      "tanggal": "2026-09-09",
+      "run": "2026-09-07",
+      "file": "png/harian/PM25_2026-09-09_run2026-09-07.png",
+      "maks_ugm3": 0.01
+    },
+    {
+      "tanggal": "2026-09-10",
+      "run": "2026-09-07",
+      "file": "png/harian/PM25_2026-09-10_run2026-09-07.png",
+      "maks_ugm3": 0.0
+    },
+    {
+      "tanggal": "2026-09-11",
+      "run": "2026-09-10",
+      "file": "png/harian/PM25_2026-09-11_run2026-09-10.png",
+      "maks_ugm3": 0.4
+    },
+    {
+      "tanggal": "2026-09-12",
+      "run": "2026-09-10",
+      "file": "png/harian/PM25_2026-09-12_run2026-09-10.png",
+      "maks_ugm3": 0.07
+    },
+    {
+      "tanggal": "2026-09-13",
+      "run": "2026-09-10",
+      "file": "png/harian/PM25_2026-09-13_run2026-09-10.png",
+      "maks_ugm3": 0.11
+    },
+    {
+      "tanggal": "2026-09-26",
+      "run": "2026-09-25",
+      "file": "png/harian/PM25_2026-09-26_run2026-09-25.png",
+      "maks_ugm3": 0.52
+    },
+    {
+      "tanggal": "2026-09-27",
+      "run": "2026-09-25",
+      "file": "png/harian/PM25_2026-09-27_run2026-09-25.png",
+      "maks_ugm3": 0.06
+    },
+    {
+      "tanggal": "2026-09-28",
+      "run": "2026-09-25",
+      "file": "png/harian/PM25_2026-09-28_run2026-09-25.png",
+      "maks_ugm3": 0.02
+    },
+    {
+      "tanggal": "2026-09-29",
+      "run": "2026-09-28",
+      "file": "png/harian/PM25_2026-09-29_run2026-09-28.png",
+      "maks_ugm3": 0.5
+    },
+    {
+      "tanggal": "2026-09-30",
+      "run": "2026-09-28",
+      "file": "png/harian/PM25_2026-09-30_run2026-09-28.png",
+      "maks_ugm3": 0.05
+    },
+    {
+      "tanggal": "2026-10-01",
+      "run": "2026-09-28",
+      "file": "png/harian/PM25_2026-10-01_run2026-09-28.png",
+      "maks_ugm3": 0.03
+    },
+    {
+      "tanggal": "2026-10-02",
+      "run": "2026-10-01",
+      "file": "png/harian/PM25_2026-10-02_run2026-10-01.png",
+      "maks_ugm3": 1.05
+    },
+    {
+      "tanggal": "2026-10-03",
+      "run": "2026-10-01",
+      "file": "png/harian/PM25_2026-10-03_run2026-10-01.png",
+      "maks_ugm3": 0.16
+    },
+    {
+      "tanggal": "2026-10-04",
+      "run": "2026-10-01",
+      "file": "png/harian/PM25_2026-10-04_run2026-10-01.png",
+      "maks_ugm3": 0.1
+    },
+    {
+      "tanggal": "2026-10-05",
+      "run": "2026-10-04",
+      "file": "png/harian/PM25_2026-10-05_run2026-10-04.png",
+      "maks_ugm3": 0.51
+    },
+    {
+      "tanggal": "2026-10-06",
+      "run": "2026-10-04",
+      "file": "png/harian/PM25_2026-10-06_run2026-10-04.png",
+      "maks_ugm3": 0.12
+    },
+    {
+      "tanggal": "2026-10-07",
+      "run": "2026-10-04",
+      "file": "png/harian/PM25_2026-10-07_run2026-10-04.png",
+      "maks_ugm3": 0.06
+    },
+    {
+      "tanggal": "2026-10-08",
+      "run": "2026-10-07",
+      "file": "png/harian/PM25_2026-10-08_run2026-10-07.png",
+      "maks_ugm3": 1.47
+    },
+    {
+      "tanggal": "2026-10-09",
+      "run": "2026-10-07",
+      "file": "png/harian/PM25_2026-10-09_run2026-10-07.png",
+      "maks_ugm3": 0.16
+    },
+    {
+      "tanggal": "2026-10-10",
+      "run": "2026-10-07",
+      "file": "png/harian/PM25_2026-10-10_run2026-10-07.png",
+      "maks_ugm3": 0.07
+    },
+    {
+      "tanggal": "2026-10-11",
+      "run": "2026-10-10",
+      "file": "png/harian/PM25_2026-10-11_run2026-10-10.png",
+      "maks_ugm3": 0.77
+    },
+    {
+      "tanggal": "2026-10-12",
+      "run": "2026-10-10",
+      "file": "png/harian/PM25_2026-10-12_run2026-10-10.png",
+      "maks_ugm3": 0.07
+    },
+    {
+      "tanggal": "2026-10-13",
+      "run": "2026-10-10",
+      "file": "png/harian/PM25_2026-10-13_run2026-10-10.png",
+      "maks_ugm3": 0.02
+    },
+    {
+      "tanggal": "2026-10-14",
+      "run": "2026-10-13",
+      "file": "png/harian/PM25_2026-10-14_run2026-10-13.png",
+      "maks_ugm3": 0.28
+    },
+    {
+      "tanggal": "2026-10-15",
+      "run": "2026-10-13",
+      "file": "png/harian/PM25_2026-10-15_run2026-10-13.png",
+      "maks_ugm3": 0.04
+    },
+    {
+      "tanggal": "2026-10-16",
+      "run": "2026-10-13",
+      "file": "png/harian/PM25_2026-10-16_run2026-10-13.png",
+      "maks_ugm3": 0.0
+    },
+    {
+      "tanggal": "2026-10-17",
+      "run": "2026-10-16",
+      "file": "png/harian/PM25_2026-10-17_run2026-10-16.png",
+      "maks_ugm3": 0.2
+    },
+    {
+      "tanggal": "2026-10-18",
+      "run": "2026-10-16",
+      "file": "png/harian/PM25_2026-10-18_run2026-10-16.png",
+      "maks_ugm3": 0.01
+    },
+    {
+      "tanggal": "2026-10-19",
+      "run": "2026-10-16",
+      "file": "png/harian/PM25_2026-10-19_run2026-10-16.png",
+      "maks_ugm3": 0.0
+    },
+    {
+      "tanggal": "2026-10-20",
+      "run": "2026-10-19",
+      "file": "png/harian/PM25_2026-10-20_run2026-10-19.png",
+      "maks_ugm3": 7.88
+    },
+    {
+      "tanggal": "2026-10-21",
+      "run": "2026-10-19",
+      "file": "png/harian/PM25_2026-10-21_run2026-10-19.png",
+      "maks_ugm3": 1.28
+    },
+    {
+      "tanggal": "2026-10-22",
+      "run": "2026-10-19",
+      "file": "png/harian/PM25_2026-10-22_run2026-10-19.png",
+      "maks_ugm3": 0.07
+    },
+    {
+      "tanggal": "2026-10-23",
+      "run": "2026-10-22",
+      "file": "png/harian/PM25_2026-10-23_run2026-10-22.png",
+      "maks_ugm3": 0.37
+    },
+    {
+      "tanggal": "2026-10-24",
+      "run": "2026-10-22",
+      "file": "png/harian/PM25_2026-10-24_run2026-10-22.png",
+      "maks_ugm3": 0.07
+    },
+    {
+      "tanggal": "2026-10-25",
+      "run": "2026-10-22",
+      "file": "png/harian/PM25_2026-10-25_run2026-10-22.png",
+      "maks_ugm3": 0.01
+    },
+    {
+      "tanggal": "2026-10-26",
+      "run": "2026-10-25",
+      "file": "png/harian/PM25_2026-10-26_run2026-10-25.png",
+      "maks_ugm3": 0.15
+    },
+    {
+      "tanggal": "2026-10-27",
+      "run": "2026-10-25",
+      "file": "png/harian/PM25_2026-10-27_run2026-10-25.png",
+      "maks_ugm3": 0.01
+    },
+    {
+      "tanggal": "2026-10-28",
+      "run": "2026-10-25",
+      "file": "png/harian/PM25_2026-10-28_run2026-10-25.png",
+      "maks_ugm3": 0.01
+    },
+    {
+      "tanggal": "2026-10-29",
+      "run": "2026-10-28",
+      "file": "png/harian/PM25_2026-10-29_run2026-10-28.png",
+      "maks_ugm3": 0.22
+    },
+    {
+      "tanggal": "2026-10-30",
+      "run": "2026-10-28",
+      "file": "png/harian/PM25_2026-10-30_run2026-10-28.png",
+      "maks_ugm3": 0.02
+    },
+    {
+      "tanggal": "2026-10-31",
+      "run": "2026-10-28",
+      "file": "png/harian/PM25_2026-10-31_run2026-10-28.png",
+      "maks_ugm3": 0.0
+    }
+  ],
+  "maks_run": [
+    {
+      "file": "png/maks_run/PM25_run2026-08-20_maks.png",
+      "maks_ugm3": 0.7
+    },
+    {
+      "file": "png/maks_run/PM25_run2026-08-23_maks.png",
+      "maks_ugm3": 19.48
+    },
+    {
+      "file": "png/maks_run/PM25_run2026-08-26_maks.png",
+      "maks_ugm3": 1.7
+    },
+    {
+      "file": "png/maks_run/PM25_run2026-09-01_maks.png",
+      "maks_ugm3": 0.93
+    },
+    {
+      "file": "png/maks_run/PM25_run2026-09-04_maks.png",
+      "maks_ugm3": 0.68
+    },
+    {
+      "file": "png/maks_run/PM25_run2026-09-07_maks.png",
+      "maks_ugm3": 0.11
+    },
+    {
+      "file": "png/maks_run/PM25_run2026-09-10_maks.png",
+      "maks_ugm3": 0.4
+    },
+    {
+      "file": "png/maks_run/PM25_run2026-09-25_maks.png",
+      "maks_ugm3": 0.52
+    },
+    {
+      "file": "png/maks_run/PM25_run2026-09-28_maks.png",
+      "maks_ugm3": 0.5
+    },
+    {
+      "file": "png/maks_run/PM25_run2026-10-01_maks.png",
+      "maks_ugm3": 1.05
+    },
+    {
+      "file": "png/maks_run/PM25_run2026-10-04_maks.png",
+      "maks_ugm3": 0.51
+    },
+    {
+      "file": "png/maks_run/PM25_run2026-10-07_maks.png",
+      "maks_ugm3": 1.47
+    },
+    {
+      "file": "png/maks_run/PM25_run2026-10-10_maks.png",
+      "maks_ugm3": 0.77
+    },
+    {
+      "file": "png/maks_run/PM25_run2026-10-13_maks.png",
+      "maks_ugm3": 0.28
+    },
+    {
+      "file": "png/maks_run/PM25_run2026-10-16_maks.png",
+      "maks_ugm3": 0.2
+    },
+    {
+      "file": "png/maks_run/PM25_run2026-10-19_maks.png",
+      "maks_ugm3": 7.88
+    },
+    {
+      "file": "png/maks_run/PM25_run2026-10-22_maks.png",
+      "maks_ugm3": 0.37
+    },
+    {
+      "file": "png/maks_run/PM25_run2026-10-25_maks.png",
+      "maks_ugm3": 0.15
+    },
+    {
+      "file": "png/maks_run/PM25_run2026-10-28_maks.png",
+      "maks_ugm3": 0.22
+    }
+  ],
+  "semua": [
+    {
+      "file": "png/semua/PM25_semua_maks.png",
+      "maks_ugm3": 19.48
+    }
+  ]
+}
